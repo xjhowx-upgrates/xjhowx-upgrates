@@ -2,7 +2,7 @@
   <!-- GIF -->
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Skull and Crossbones GIF" width="90">
 
-  <h3>⚜️ Desenvolvedor Full-Stack Jhow ⚜️</h3>
+  <h3>⚜️ Desenvolvedor Full-Stack ⚜️</h3>
   <p>Desenvolvedor independente, construindo minha versão do mundo digital passo a passo.</p>
 
   <hr>
