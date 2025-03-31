@@ -1,6 +1,6 @@
 <div style="text-align: center;" align="center">
   <!-- GIF -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Skull and Crossbones GIF" width="90">
 
   <h3>⚜️ Desenvolvedor Full-Stack Jhow ⚜️</h3>
   <p>Desenvolvedor independente, construindo minha versão do mundo digital passo a passo.</p>
@@ -172,4 +172,7 @@
   <footer>
     <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow</p>
   </footer>
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
+
 </div>
