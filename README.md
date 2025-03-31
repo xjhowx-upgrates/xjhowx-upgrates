@@ -9,16 +9,17 @@
 
   <h4>📊 Estatísticas e Plataformas</h4>
   <div>
-    <img src="https://img.shields.io/badge/YouTube-500K-red?style=for-the-badge&logo=youtube" alt="YouTube">
-    <img src="https://img.shields.io/badge/Views-10M%2B-blue?style=for-the-badge" alt="Visualizações Totais">
-    <img src="https://img.shields.io/github/followers/xjhowx-upgrates?style=for-the-badge" alt="Seguidores no GitHub">
-    <img src="https://img.shields.io/github/stars/xjhowx-upgrates?style=for-the-badge" alt="Total de Estrelas">
+    <img src="https://img.shields.io/badge/YouTube-500K-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Views-10M%2B-blue?style=for-the-badge" alt="Visualizações Totais" />
+    <img src="https://img.shields.io/github/followers/xjhowx-upgrates?style=for-the-badge" alt="Seguidores no GitHub" />
+    <img src="https://img.shields.io/github/stars/xjhowx-upgrates?style=for-the-badge" alt="Total de Estrelas" />
   </div>
 
   <hr>
 
   <h3 align="center">🧰 Tecnologias e Ferramentas 🧰</h3>
   <div align="center">
+    <!-- Icons -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="25" alt="ruby logo" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
@@ -55,47 +56,74 @@
   <hr>
 
   <h4>📺 Últimos Vídeos no YouTube</h4>
-  <table align="center">
+  <table align="center" style="background-color:#111111; padding: 15px; border-radius: 10px;">
     <tr>
-      <td>
+      <td style="padding: 10px;">
         <a href="https://youtu.be/IobwwOUJkFk">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 1">
         </a>
         <br>
-        <strong>Título do Vídeo</strong>
+        <strong>🎯 Você Não Vai Acreditar Neste Truque! 🚀</strong>
         <br>
         63K views - 3 meses
       </td>
-      <td>
+      <td style="padding: 10px;">
         <a href="https://youtu.be/IobwwOUJkFk">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 2">
         </a>
         <br>
-        <strong>Título do Vídeo</strong>
+        <strong>🔥 5 Dicas de Programação Que Você Deve Saber!</strong>
         <br>
-        63K views - 3 meses
+        48K views - 1 mês
       </td>
-      <td>
+      <td style="padding: 10px;">
         <a href="https://youtu.be/IobwwOUJkFk">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 3">
         </a>
         <br>
-        <strong>Título do Vídeo</strong>
+        <strong>🛠️ Como Criar Seu Primeiro Site Em 10 Minutos</strong>
         <br>
-        63K views - 3 meses
+        25K views - 2 semanas
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://youtu.be/IobwwOUJkFk">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 4">
+        </a>
+        <br>
+        <strong>💻 Tutorial Completo de ReactJS para Iniciantes</strong>
+        <br>
+        89K views - 1 mês
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://youtu.be/IobwwOUJkFk">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 5">
+        </a>
+        <br>
+        <strong>🚀 Como Melhorar Sua Performance no Coding Challenge</strong>
+        <br>
+        12K views - 5 dias
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://youtu.be/IobwwOUJkFk">
+          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 6">
+        </a>
+        <br>
+        <strong>📈 Dicas de SEO para Desenvolvedores</strong>
+        <br>
+        18K views - 2 semanas
       </td>
     </tr>
   </table>
 
   <a href="https://www.youtube.com/@canal.do.xjhowx">
-    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube" alt="Inscreva-se no YouTube" />
   </a>
 
   <hr>
 
-  ---
-
-<div style="text-align: center;" align="center">
+  <div style="text-align: center;" align="center">
   <h3> 🚀 Estatísticas do GitHub 🚀 </h3>
   <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="Alien Monster GIF" width="50">
@@ -110,11 +138,9 @@
   </a>
 </div>
 
----
   <p>💬 <strong>Vamos construir algo incrível juntos!</strong></p>
   <br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost GIF" width="50">
-  </br>
 
   <hr>
 
@@ -128,13 +154,13 @@
   <p>Me siga para mais projetos e novidades:</p>
 
   <a href="https://instagram.com/jhow.tattoos">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/xjhowx">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@canal.do.xjhowx">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 
   <p>📩 Precisa de um site ou landing page profissional?</p><p> Pode chamar!</p>
