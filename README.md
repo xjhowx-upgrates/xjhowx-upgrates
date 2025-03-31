@@ -27,102 +27,23 @@
   
   <hr>
 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
+
   <h4>🔥 Projetos em Destaque 🔥</h4>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    
-<div style="text-align: center;">
+  <div style="text-align: center;">
 
   <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
-  <h5><b>WebSite - Estúdio de Tatuagem</b></h5>
-  <p>Landing page para estúdio de tatuagem!<br> 
-    Esta página foi desenvolvida para oferecer uma experiência imersiva e intuitiva para clientes interessados em tatuagens de qualidade</p>
-  <a href="https://github.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-01" target="_blank">
+  <h5><b>- MEUS PROJETOS -</b></h5>
+  <p>Aqui você vai encontrar todas as minhas criações!<br> 
+    CONFIRA AGORA:</p>
+  <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
   </a>
 </div>
 <br>
 <br>
-<div style="text-align: center;">
-
-  <img src="https://app.cakto.com.br/logo/green-text-logo-transparent-background-login.png" alt="Projeto 2" style="border-radius: 8px; width: 150px;">
-  <h5><b>TELA DE LOGIN</b></h5>
-  <p>Template minimalista que configura o React com Vite, incluindo HMR (Hot Module Replacement) e algumas regras do ESLint.<br> 
-    Ele utiliza TypeScript como a principal linguagem de desenvolvimento.</p>
-  <a href="https://github.com/xjhowx-upgrates/Cakto-Login" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
-  </a>
-</div>
-  <hr>
-
-  <h4>📺 Últimos Vídeos no YouTube 📺</h4>
-  <table align="center" style="background-color:#111111; padding: 15px; border-radius: 10px;">
-    <tr>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 1">
-        </a>
-        <br>
-        <strong>🎯 Você Não Vai Acreditar Neste Truque! 🚀</strong>
-        <br>
-        63K views - 3 meses
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 2">
-        </a>
-        <br>
-        <strong>🔥 5 Dicas de Programação Que Você Deve Saber!</strong>
-        <br>
-        48K views - 1 mês
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 3">
-        </a>
-        <br>
-        <strong>🛠️ Como Criar Seu Primeiro Site Em 10 Minutos</strong>
-        <br>
-        25K views - 2 semanas
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 4">
-        </a>
-        <br>
-        <strong>💻 Tutorial Completo de ReactJS para Iniciantes</strong>
-        <br>
-        89K views - 1 mês
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 5">
-        </a>
-        <br>
-        <strong>🚀 Como Melhorar Sua Performance no Coding Challenge</strong>
-        <br>
-        12K views - 5 dias
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://youtu.be/IobwwOUJkFk" target="_blank">
-          <img src="https://i.ytimg.com/vi/IobwwOUJkFk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBLWstB5mKeMutTuIi6_6U1XRLIww" width="280" alt="Título do Vídeo 6">
-        </a>
-        <br>
-        <strong>📈 Dicas de SEO para Desenvolvedores</strong>
-        <br>
-        18K views - 2 semanas
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://www.youtube.com/@canal.do.xjhowx" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube" alt="Inscreva-se no YouTube" />
-  </a>
-
-  <hr>
-
-  <h4>🌟 Conquistas no Mundo Digital</h4>
+  <h4>🌟 Conquistas no Mundo Digital 🌟</h4>
   <div>
     <img src="https://img.shields.io/badge/Seguidores%20GitHub-500-orange?style=for-the-badge" alt="Seguidores GitHub">
     <img src="https://img.shields.io/badge/YouTube-500K-red?style=for-the-badge&logo=youtube" alt="YouTube">
@@ -172,7 +93,5 @@
   <footer>
     <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow</p>
   </footer>
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
 
 </div>
