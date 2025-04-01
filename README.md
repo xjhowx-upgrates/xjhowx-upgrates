@@ -35,7 +35,8 @@
 
   <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
    <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
+  <br>   
+  <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
   </a>
 </div>
 <br>
