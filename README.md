@@ -34,23 +34,13 @@
   <div style="text-align: center;">
 
   <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
-  <h5><b>- MEUS PROJETOS -</b></h5>
-  <p>Aqui você vai encontrar todas as minhas criações!<br> 
-    CONFIRA AGORA:</p>
-  <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
+   <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
   </a>
 </div>
 <br>
 <br>
-  <h4>🌟 Conquistas no Mundo Digital 🌟</h4>
-  <div>
-    <img src="https://img.shields.io/badge/Seguidores%20GitHub-500-orange?style=for-the-badge" alt="Seguidores GitHub">
-    <img src="https://img.shields.io/badge/YouTube-500K-red?style=for-the-badge&logo=youtube" alt="YouTube">
-    <img src="https://img.shields.io/badge/Visualizações%20YouTube-10M-blue?style=for-the-badge" alt="Visualizações YouTube">
-  </div>
-
-  <hr>
+<hr>
 
   <h3 align="center">📚 Tecnologias e Ferramentas 📚</h3>
   <div align="center">
