@@ -1,45 +1,41 @@
 <div style="text-align: center;" align="center">
   <!-- GIF -->
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Skull and Crossbones GIF" width="90">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Tecnologista" width="90">
 
-  <h3>⚜️ Desenvolvedor Full-Stack ⚜️</h3>
-  <p>Desenvolvedor independente, construindo minha versão do mundo digital passo a passo.</p>
+  <h3>⚜️ Desenvolvedor Full-Stack em Treinamento ⚜️</h3>
+  <p>Sou o famoso "low code" que tem uma infinidade de ideias brilhantes, mas às vezes falta aquele empurrãozinho para colocá-las em prática. Com um pouco de ajuda da IA (e de muito café ☕), logo estarei dominando o React e criando soluções que vão transformar o mundo digital! Ou pelo menos é isso que eu planejo... 😎🚀</p>
 
   <hr>
 
-  <!-- Nova Seção Inovadora -->
+  <!-- GitHub Contribution Snake -->
   <div>
-    <!-- Visualização do GitHub Contribution Snake -->
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xjhowx-upgrates/xjhowx-upgrates/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xjhowx-upgrates/xjhowx-upgrates/output/github-contribution-grid-snake.svg">
       <img src="https://raw.githubusercontent.com/xjhowx-upgrates/xjhowx-upgrates/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
     </picture>
   
-   <div style="margin-top: 10px;">
+  <div style="margin-top: 10px;">
       <img src="https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge&logo=github" alt="Contribuições Ativas">
       <img src="https://img.shields.io/badge/Projetos-20-blue?style=for-the-badge" alt="Projetos">
     </div>
   </div>
-
-<h4>🚀 Impacto no Mundo Digital</h4>
   <hr>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
 
   <h4>🔥 Projetos em Destaque 🔥</h4>
   <div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-
-  <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
-   <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
-  <br>   
-  <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
-  </a>
-</div>
-<br>
-<br>
-<hr>
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
+      <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
+        <br>   
+        <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
+      </a>
+    </div>
+  </div>
+  <br><br>
+  <hr>
 
   <h3 align="center">📚 Tecnologias e Ferramentas 📚</h3>
   <div align="center">
@@ -79,7 +75,8 @@
 
   <hr>
 
-  <footer>
+ <footer>
   <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow, e com um toque de mágica do ChatGPT, é claro! 🤖✨</p>
-</footer>  
+</footer>
+
 </div>
