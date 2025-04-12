@@ -23,8 +23,6 @@
   </div>
 
 <h4>🚀 Impacto no Mundo Digital</h4>
-  <p>Contribuindo para a evolução da web e desenvolvendo soluções que impactam o mundo real!</p>
-  
   <hr>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
@@ -82,7 +80,6 @@
   <hr>
 
   <footer>
-    <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow</p>
-  </footer>
-
+  <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow, e com um toque de mágica do ChatGPT, é claro! 🤖✨</p>
+</footer>  
 </div>
