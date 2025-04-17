@@ -3,9 +3,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Tecnologista" width="90">
 
   <h3>⚜️ Desenvolvedor Full-Stack em Treinamento ⚜️</h3>
-  <p>Sou o famoso "low code" que tem uma infinidade de ideias brilhantes, mas às vezes falta aquele empurrãozinho para colocá-las em prática. Com um pouco de ajuda da IA (e de muito café ☕), logo estarei dominando o React e criando soluções que vão transformar o mundo digital! Ou pelo menos é isso que eu planejo... 😎🚀</p>
-
-  <hr>
+   <hr>
 
   <!-- GitHub Contribution Snake -->
   <div>
@@ -74,9 +72,4 @@
   </div>
 
   <hr>
-
- <footer>
-  <p style="text-align: center; color: #aaa;">Feito com 🧠 por Jhow, e com um toque de mágica do ChatGPT, é claro! 🤖✨</p>
-</footer>
-
 </div>
