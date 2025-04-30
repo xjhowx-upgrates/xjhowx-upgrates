@@ -22,20 +22,7 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
 
-  <h4>🔥 Projetos em Destaque 🔥</h4>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/PC.png" alt="Projeto 1" style="border-radius: 8px; width: 150px;">
-      <a href="https://github.com/xjhowx-upgrates?tab=projects" target="_blank">
-        <br>   
-        <img src="https://img.shields.io/badge/Ver%20no%20GitHub-blue?style=for-the-badge&logo=github" alt="Ver no GitHub">
-      </a>
-    </div>
-  </div>
-  <br><br>
-  <hr>
-
-  <h3 align="center">📚 Tecnologias e Ferramentas 📚</h3>
+   <h3 align="center">📚 Tecnologias e Ferramentas 📚</h3>
   <div align="center">
     <!-- Icons -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="25" alt="ruby logo" />
