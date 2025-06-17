@@ -2,7 +2,7 @@
   <!-- GIF -->
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Tecnologista" width="90">
 
-  <h3>⚜️ Desenvolvedor Full-Stack em Treinamento ⚜️</h3>
+  <h3>Full-Stack em Treinamento </h3>
    <hr>
 
   <!-- GitHub Contribution Snake -->
@@ -22,7 +22,7 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones GIF" width="100">
 
-   <h3 align="center">📚 Tecnologias e Ferramentas 📚</h3>
+   <h3 align="center">📚</h3>
   <div align="center">
     <!-- Icons -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="25" alt="ruby logo" />
