@@ -2,7 +2,7 @@
   <!-- GIF -->
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Tecnologista" width="90">
 
-  <h3>Full-Stack em Treinamento </h3>
+  <h3> Nada se cria, tudo se copia... e depois se refatora. </h3>
    <hr>
 
   <!-- GitHub Contribution Snake -->
